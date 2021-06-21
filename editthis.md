@@ -1,2 +1,1 @@
-HOW WAS YOUR DAY ?
-Always Good.
+Snake Game using python and Tkinter.
